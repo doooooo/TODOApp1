@@ -72,7 +72,7 @@
              <tr>
                 <td>&nbsp;</td>
                 <td>
-                    <asp:ListBox ID="ListBox1" runat="server"></asp:ListBox>
+                    <asp:ListBox ID="ListBox1" runat="server" Height="80%" Width="60%"></asp:ListBox>
                  </td>
                 <td>&nbsp;</td>
             </tr>
